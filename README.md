@@ -1,2 +1,3 @@
 # Trabalho-Final-Comp
-Trabalho Final da Cadeira de Compiladores: Criação de um transpilador
+
+Trabalho feito na linguagem Python e a ferramenta de construção de compiladores Python PLY para a criação de um transpilador.
